@@ -1,3 +1,5 @@
+<img width="1536" height="1024" alt="Aprendizado de máquina e precificação" src="https://github.com/user-attachments/assets/a0979fa5-0e21-4c03-b5e1-7e0fce471dd2" />
+
 # House Prices – Advanced Regression Techniques
 
 Projeto de **Machine Learning** desenvolvido a partir da competição *House Prices – Advanced Regression Techniques* do Kaggle, com foco em **modelagem preditiva, boas práticas de pipeline e comparação de modelos** para estimativa do preço de imóveis.
@@ -99,3 +101,4 @@ O uso do log:
 
 E-mail: **thiago.a.v.souza@gmail.com**\
 LinkedIn: **https://www.linkedin.com/in/thiagoavsouza/**
+
